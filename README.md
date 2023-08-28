@@ -1,6 +1,6 @@
 # Electric-Motor-Speed
 
-Evaluation Metrics:
+Evaluation Metrics: 
 The Random Forest Regression has the lowest Mean Squared Error test (MSE) of 0.000168901, indicating that it performs well in predicting the target variable on unseen data.
 The Mean Absolute Error test (MAE) and Root Mean Squared Error test (RMSE) are also very low, at 0.003738 and 0.012996, respectively. This indicates that the model's predictions are close to the actual values on average.
 The R-squared test (R2) Score of 0.999849 is very close to 1, which means the model explains almost all the variance in the test data.
